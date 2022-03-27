@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: da1d41fd-1c04-8df1-fa02-4155b8e1ee74
 resourcetype: Document
 title: sept_30_2004_fin.pdf
 uid: c82a190c-2f10-7b0c-909e-2dc4d9bbeaae

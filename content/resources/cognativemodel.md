@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ab6718d7-84b6-bf50-9e35-3d2bff9c9c79
 resourcetype: Document
 title: cognativemodel.pdf
 uid: 44d424a9-66bb-91a8-4388-b763d408eb96

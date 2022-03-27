@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ab86cab6-3691-5d8c-4e3f-c1b6705d2c64
 resourcetype: Document
 title: werfelintro.pdf
 uid: e223530a-02c6-6601-b092-d787005fefd7

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ab6718d7-84b6-bf50-9e35-3d2bff9c9c79
 resourcetype: Document
 title: cocosci.pdf
 uid: 22f8cd28-f6cf-6c0b-5edd-18c1fe0b0ef9
