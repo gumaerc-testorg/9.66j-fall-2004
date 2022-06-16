@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains about a good knowledge representation, mental representations,
   spatial representations, tree representations and Feature representations.
-file: /media/courses/9-66j-computational-cognitive-science-fall-2004/ab5fd7eb688800a0e62a6428901dd342_knowledge_sep16.pdf
+file: /courses/9-66j-computational-cognitive-science-fall-2004/ab5fd7eb688800a0e62a6428901dd342_knowledge_sep16.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: knowledge_sep16.pdf
 uid: ab5fd7eb-6888-00a0-e62a-6428901dd342
 ---
+This file explains about a good knowledge representation, mental representations, spatial representations, tree representations and Feature representations.
+

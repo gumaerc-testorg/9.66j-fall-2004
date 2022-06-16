@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file explains non-parametric models for categorization: exemplars,
   neural networks and controlling complexity in statistical models.'
-file: /media/courses/9-66j-computational-cognitive-science-fall-2004/dccb70206f5533197431b697861f7327_nov_2_2004_final.pdf
+file: /courses/9-66j-computational-cognitive-science-fall-2004/dccb70206f5533197431b697861f7327_nov_2_2004_final.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: nov_2_2004_final.pdf
 uid: dccb7020-6f55-3319-7431-b697861f7327
 ---
+This file explains non-parametric models for categorization: exemplars, neural networks and controlling complexity in statistical models.
+

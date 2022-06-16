@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus provides information on overview, prerequisites, readings,
+  discussion board, assignments, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
