@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar provides information on the class lectures and the key dates
+  of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: fab4dba6-7f8c-4e85-940e-de8327145bfa
 ---

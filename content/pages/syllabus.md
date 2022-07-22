@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus provides information on overview, prerequisites, readings,
+  discussion board, assignments, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9c46c512-f4b0-0a8d-8c4f-04970838c304
 ---
