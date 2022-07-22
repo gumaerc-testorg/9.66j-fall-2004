@@ -12,6 +12,7 @@ file: /courses/9-66j-computational-cognitive-science-fall-2004/844d8ae30bc87145b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ uid: 844d8ae3-0bc8-7145-bf79-8611983c6a9f
 ---
 This file contains the following topics:
 Advantages/Disadvantages of the constraint-based approach, the Blicket detector, constraint-based model, constraint-based inference, why not use constraint-based methods and fictional sample sizes, a deductive inference, approaches to structure learning, Bayesian causal inference, ontology, constraints on causal relations, functional form of causal relations, modeling backwards blocking, the role of causal mechanism knowledge, and summary.
-

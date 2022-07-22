@@ -6,6 +6,7 @@ file: /courses/9-66j-computational-cognitive-science-fall-2004/ab5fd7eb688800a0e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: knowledge_sep16.pdf
 uid: ab5fd7eb-6888-00a0-e62a-6428901dd342
 ---
 This file explains about a good knowledge representation, mental representations, spatial representations, tree representations and Feature representations.
-

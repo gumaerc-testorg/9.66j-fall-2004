@@ -11,6 +11,7 @@ file: /courses/9-66j-computational-cognitive-science-fall-2004/cb8a24f5fb2c65120
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ uid: cb8a24f5-fb2c-6512-0a50-8e6e5eb5c8c7
 ---
 This file explains the following topics:
 Representativeness in reasoning, a reasoning fallacy, predictive versus inductive reasoning, Bayes' rule, Cox axioms, probability as propositional logic with uncertainty, Bayesian inference, a more useful form of Bayes, hypotheses in coin flipping, representing generative models, models with latent structures, Bayes' rule in odds form, and the role of theories.
-

@@ -6,6 +6,7 @@ file: /courses/9-66j-computational-cognitive-science-fall-2004/4f68798f979c9662d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nov_4_2004_final.pdf
 uid: 4f68798f-979c-9662-d232-adf39772f476
 ---
 This file explains problems with neural networks, support vector machines, and controlling complexity in statistical models.
-
