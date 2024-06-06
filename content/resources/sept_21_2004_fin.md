@@ -4,6 +4,7 @@ description: This file explains PAC learning analyses, and the importance of cho
   good features, grammars, first-order logic, and learning a theory and new concepts
   in first-order logic.
 file: /courses/9-66j-computational-cognitive-science-fall-2004/93350e8a0d5dc1eb55c0d04994509c2f_sept_21_2004_fin.pdf
+file_size: 211852
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
