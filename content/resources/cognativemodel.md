@@ -4,6 +4,7 @@ description: This file explains the approach of "Expert System for Suggesting De
   Patternsto" in order to identify the features that are most revealing about pattern
   selection instead of trying to make a definite suggestion.
 file: /courses/9-66j-computational-cognitive-science-fall-2004/44d424a966bb91a84388b763d408eb96_cognativemodel.pdf
+file_size: 233669
 file_type: application/pdf
 learning_resource_types:
 - Projects

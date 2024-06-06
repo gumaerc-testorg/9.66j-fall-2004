@@ -4,6 +4,7 @@ description: This file explains controlling complexity in Bayesian neural networ
   controlling complexity in infinite mixture models, discussion about computational
   strengths and weaknesses, and cognitive relevance.
 file: /courses/9-66j-computational-cognitive-science-fall-2004/876b9e443585b9fa1a4882bab77ccacf_nov_9_2004_final.pdf
+file_size: 170004
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
