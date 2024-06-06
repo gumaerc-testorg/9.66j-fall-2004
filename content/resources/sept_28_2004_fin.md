@@ -5,6 +5,7 @@ description: This file explains learning a theory and new concepts in first-orde
   including hierarchies or hidden units, logical relations or hidden units, and definitions
   or prototypes.
 file: /courses/9-66j-computational-cognitive-science-fall-2004/363d2f62c1441725bd64b6ce263dd2e8_sept_28_2004_fin.pdf
+file_size: 174706
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

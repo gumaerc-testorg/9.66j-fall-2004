@@ -9,6 +9,7 @@ description: 'This file contains the following topics:
   functional form of causal relations, modeling backwards blocking, the role of causal
   mechanism knowledge, and summary.'
 file: /courses/9-66j-computational-cognitive-science-fall-2004/844d8ae30bc87145bf798611983c6a9f_dec_2_2004_final.pdf
+file_size: 215483
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

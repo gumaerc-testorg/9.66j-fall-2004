@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file explains the theory-based Bayesian causal induction and intuitive
   theories: their structure, function, and origins.'
 file: /courses/9-66j-computational-cognitive-science-fall-2004/c8ba2455fbb1a744abeae59908086b0f_dec_7_2004_final.pdf
+file_size: 466831
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
