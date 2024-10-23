@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information about Matlab, its statistics and linear
   regression.
-file: /courses/9-66j-computational-cognitive-science-fall-2004/e223530a02c66601b092d787005fefd7_werfelintro.pdf
+file: /ol-ocw-studio-app/courses/9-66j-computational-cognitive-science-fall-2004/e223530a02c66601b092d787005fefd7_werfelintro.pdf
 file_size: 99062
 file_type: application/pdf
 learning_resource_types: []
