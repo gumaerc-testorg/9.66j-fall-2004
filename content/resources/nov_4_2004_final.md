@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains problems with neural networks, support vector machines,
   and controlling complexity in statistical models.
-file: /courses/9-66j-computational-cognitive-science-fall-2004/4f68798f979c9662d232adf39772f476_nov_4_2004_final.pdf
+file: /ol-ocw-studio-app/courses/9-66j-computational-cognitive-science-fall-2004/4f68798f979c9662d232adf39772f476_nov_4_2004_final.pdf
 file_size: 131454
 file_type: application/pdf
 learning_resource_types:
