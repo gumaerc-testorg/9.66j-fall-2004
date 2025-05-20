@@ -7,7 +7,7 @@ description: 'This file explains the following topics:
   Bayesian inference, a more useful form of Bayes, hypotheses in coin flipping, representing
   generative models, models with latent structures, Bayes'' rule in odds form, and
   the role of theories.'
-file: /ol-ocw-studio-app/courses/9-66j-computational-cognitive-science-fall-2004/cb8a24f5fb2c65120a508e6e5eb5c8c7_oct_5_2004_final.pdf
+file: /courses/9-66j-computational-cognitive-science-fall-2004/cb8a24f5fb2c65120a508e6e5eb5c8c7_oct_5_2004_final.pdf
 file_size: 181380
 file_type: application/pdf
 learning_resource_types:

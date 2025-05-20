@@ -2,7 +2,7 @@
 content_type: resource
 description: This file explains the role that novel concepts play in learning good
   theories and uses Hinton's kinship dataset as motivation throughout the file.
-file: /ol-ocw-studio-app/courses/9-66j-computational-cognitive-science-fall-2004/22f8cd28f6cf6c0b5edd18c1fe0b0ef9_cocosci.pdf
+file: /courses/9-66j-computational-cognitive-science-fall-2004/22f8cd28f6cf6c0b5edd18c1fe0b0ef9_cocosci.pdf
 file_size: 245072
 file_type: application/pdf
 learning_resource_types:
