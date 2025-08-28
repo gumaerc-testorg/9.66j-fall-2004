@@ -6,7 +6,7 @@ description: 'This file contains the following topics:
   bayes, generating features, choosing a tree, an unstructured PDP approach, inductive
   bias, telluric screw, structure discovery and induction, biological data, grammer
   structure, supreme court data, best structure, and developmental shift.'
-file: /courses/9-66j-computational-cognitive-science-fall-2004/aaf5e9b4f29aaefbf43b5586a79678bb_nov18.pdf
+file: /ol-ocw-studio-app/courses/9-66j-computational-cognitive-science-fall-2004/aaf5e9b4f29aaefbf43b5586a79678bb_nov18.pdf
 file_size: 1403653
 file_type: application/pdf
 learning_resource_types:
