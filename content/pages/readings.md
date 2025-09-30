@@ -75,7 +75,7 @@ _Optional Readings_
 
 Feldman, J. "Minimization of Boolean Complexity in Human Concept Learning." _Nature_ 407 (2000): 630-633.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/introduction-computational-learning-theory) Kearns, Michael J., and Umesh V. Vasirani. _An Introduction to Computational Learning Theory_. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/introduction-computational-learning-theory), 1994, pp. 1-7. ISBN: 0262111934.
+{{% resource_link "295cadb1-c75d-46e0-8006-e45d8273080a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kearns, Michael J., and Umesh V. Vasirani. _An Introduction to Computational Learning Theory_. Cambridge, MA: {{% resource_link "295cadb1-c75d-46e0-8006-e45d8273080a" "MIT Press" %}}, 1994, pp. 1-7. ISBN: 0262111934.
 
 Winston, P. H., ed. "Learning Structural Descriptions from Examples." In _The Psychology of Computer Vision_. New York, NY: McGaw-Hill, 1975, pp. 157-209. ISBN: 0070710481.
 
@@ -147,9 +147,9 @@ At least one of the following three pairs of papers:
 
 2\. Armstrong S. L., L. R. Gleitman, and H. Gleitman. "What Some Concepts Might Not Be." _Cognition_ 13, no. 3 (May 1983): 263-308.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/invitation-cognitive-science-second-edition-volume-1) 1. Pinker, S. "Why the Child Holded the Baby Rabbits: A Case Study in Language Acquisition." In _An Invitation to Cognitive Science: Language_. Edited by L. Gleitman, and M. Liberman. 2nd ed. Vol. 1. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/invitation-cognitive-science-second-edition-volume-1), 1995. ISBN: 0262650444.
+{{% resource_link "c94404d6-e940-4ca0-bcf0-0767d41ecaa2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} 1. Pinker, S. "Why the Child Holded the Baby Rabbits: A Case Study in Language Acquisition." In _An Invitation to Cognitive Science: Language_. Edited by L. Gleitman, and M. Liberman. 2nd ed. Vol. 1. Cambridge, MA: {{% resource_link "c94404d6-e940-4ca0-bcf0-0767d41ecaa2" "MIT Press" %}}, 1995. ISBN: 0262650444.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-2) 2. Rumelhart, D. E., and J. L. McClelland, eds. "On Learning the Past Tenses of English Verbs." Chapter 18 in [_Parallel Distributed Processing: Explorations in the Microstructure of Cognition_](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-2). Vol. 2. Cambridge, MA: MIT Press, 1987. ISBN: 0262631121.
+{{% resource_link "49c26424-6161-4363-bbd7-9e70e7adfc1e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} 2. Rumelhart, D. E., and J. L. McClelland, eds. "On Learning the Past Tenses of English Verbs." Chapter 18 in {{% resource_link "49c26424-6161-4363-bbd7-9e70e7adfc1e" "_Parallel Distributed Processing: Explorations in the Microstructure of Cognition_" %}}. Vol. 2. Cambridge, MA: MIT Press, 1987. ISBN: 0262631121.
 
 1\. Collins, A. M., and M. R. Quillian. "Retrieval Time from Semantic Memory." _Journal of Verbal Learning and Verbal Behavior_ 8 (1969): 240-248.
 
@@ -157,7 +157,7 @@ At least one of the following three pairs of papers:
 
 _Optional Readings_
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-2) Rumelhart, D. E., and J. L. McClelland, eds. "Schemata and Sequential Thought Processes in PDP Models." Chapter 14 in _Parallel Distributed Processing: Explorations in the Microstructure of Cognition_. Vol. 2. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-2), 1987. ISBN: 0262631121.
+{{% resource_link "49c26424-6161-4363-bbd7-9e70e7adfc1e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Rumelhart, D. E., and J. L. McClelland, eds. "Schemata and Sequential Thought Processes in PDP Models." Chapter 14 in _Parallel Distributed Processing: Explorations in the Microstructure of Cognition_. Vol. 2. Cambridge, MA: {{% resource_link "49c26424-6161-4363-bbd7-9e70e7adfc1e" "MIT Press" %}}, 1987. ISBN: 0262631121.
 
 Goldstone, R. L., and A. Kersten. "Concepts and Categories." In _Comprehensive Handbook of Psychology_. Edited by A. F. Healy, and R. W. Proctor. Vol. 4: Experimental Psychology. 2003, pp. 591-621.
 
@@ -205,7 +205,7 @@ AIMA. Sections 14.1-14.3, and 14.5.
 
 Charniak. "Bayesian Networks without Tears." _AI Magazine_ 12, no. 4 (1991): 50-63.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-2) McClelland, J. L., D. E. Rumelhart, andG. Hinton. "The Appeal of Parallel Distributed Processing." In _Parallel Distributed Processing: Explorations in the Microstructure of Cognition_. Vol. 2. Edited by D. E. Rumelhart, and J. L. McClelland. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/parallel-distributed-processing-volume-2), 1987. ISBN: 0262631121.
+{{% resource_link "49c26424-6161-4363-bbd7-9e70e7adfc1e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} McClelland, J. L., D. E. Rumelhart, andG. Hinton. "The Appeal of Parallel Distributed Processing." In _Parallel Distributed Processing: Explorations in the Microstructure of Cognition_. Vol. 2. Edited by D. E. Rumelhart, and J. L. McClelland. Cambridge, MA: {{% resource_link "49c26424-6161-4363-bbd7-9e70e7adfc1e" "MIT Press" %}}, 1987. ISBN: 0262631121.
 
 Johnson-Laird, P. N., and Fabien Savary. "Illusory Inferences about Probabilities." _Acta Psychologica_ 93 (1996): 69-90.
 
@@ -249,7 +249,7 @@ For review: AIMA. Section 19.2.
 
 Mitchell, Thomas M. "Bayesian Learning." Chapter 6 in _Machine Learning_. New York, NY: McGraw-Hill, 1997, sections 6.1-6.3. ISBN: 0070428077.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/advances-neural-information-processing-systems-12) Tenenbaum, J. B. "Rules and Similarity in Concept Learning." In _Advances in Neural Information Processing Systems 12_. Edited by S. Solla, T. Leen, and K. Muller. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/advances-neural-information-processing-systems-12), 2000, 59-65. ISBN: 0262194503.
+{{% resource_link "39f9b43f-8e27-41f6-87f2-d99a0062d8e8" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tenenbaum, J. B. "Rules and Similarity in Concept Learning." In _Advances in Neural Information Processing Systems 12_. Edited by S. Solla, T. Leen, and K. Muller. Cambridge, MA: {{% resource_link "39f9b43f-8e27-41f6-87f2-d99a0062d8e8" "MIT Press" %}}, 2000, 59-65. ISBN: 0262194503.
 
 Posner, and Keele. "On the Genesis of Abstract Ideas." _Journal of Experimental Psychology_ 77 (1968): 353-363.
 
@@ -355,7 +355,7 @@ Unsupervised and Semi-supervised Learning
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631938) Murphy, Gregory L., and Douglas L. Medin. "The Role of Theories in Conceptual Coherence." Chapter 19 in _Concepts: Core Readings_. Edited by E. Margolis, and S. Laurence. Cambridge, MA: MIT Press, July 1999, pp. 425-458. ISBN: 9780262631938.
+{{% resource_link "0b47d2af-7cba-418f-acc8-a5cbabc29aaa" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Murphy, Gregory L., and Douglas L. Medin. "The Role of Theories in Conceptual Coherence." Chapter 19 in _Concepts: Core Readings_. Edited by E. Margolis, and S. Laurence. Cambridge, MA: MIT Press, July 1999, pp. 425-458. ISBN: 9780262631938.
 
 Gelman, Susan A. _The Essential Child_. New York, NY: Oxford University Press, March 1, 2003, chapter 1, and 3, pp. 3-18, and 60-88. ISBN: 0195154061.
 
@@ -393,7 +393,7 @@ Non-parametric Classification: Exemplar Models and Neural Networks 2
 
 Pearl, Judea. _Causality: Models, Reasoning, and Inference_. Cambridge, MA: Cambridge University Press, 2000, chapter 1. ISBN: 0521773628.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/computation-causation-and-discovery) Gregory F. Cooper. "An Overview of the Representation and Discovery of Causal Relationships using Bayesian Networks." In _Computation, Causation, and Discovery_. Edited by Clark Glymour and Gregory F. Cooper. [MIT Press](https://mitpress.mit.edu/books/computation-causation-and-discovery), June 1999, pp. 3-62. ISBN: 0262571242.
+{{% resource_link "bac71710-1be7-43f9-92a5-6d67c6a03c71" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gregory F. Cooper. "An Overview of the Representation and Discovery of Causal Relationships using Bayesian Networks." In _Computation, Causation, and Discovery_. Edited by Clark Glymour and Gregory F. Cooper. {{% resource_link "bac71710-1be7-43f9-92a5-6d67c6a03c71" "MIT Press" %}}, June 1999, pp. 3-62. ISBN: 0262571242.
 
 Gopnik, Alison, and Laura Schulz. "Mechanisms of Theory Formation in Young Children." _Trends in Cognitive Sciences_ 8, no. 8 (August 2004): 371-377. 
 
@@ -455,7 +455,7 @@ Intuitive Biology and the Role of Theories
 
 Osherson, Daniel N., O. Wilkie, E. E. Smith, A. Lopez, and E. Shafir. "Category-Based Induction." _Psychological Review_ 97, no. 2 (1990): 185-200.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/invitation-cognitive-science-second-edition-volume-3) Atran, Scott. "Classifying Nature Across Cultures." In _Thinking: An Invitation to Cognitive Science_. Edited by Edward E. Smith, Daniel N. Osherson, et. al. 2nd ed. Vol. 3. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/books/invitation-cognitive-science-second-edition-volume-3), 1995, pp. 131-174. ISBN: 0262150433.
+{{% resource_link "851723b4-ef4d-4a8f-8d87-7bde81f830d7" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Atran, Scott. "Classifying Nature Across Cultures." In _Thinking: An Invitation to Cognitive Science_. Edited by Edward E. Smith, Daniel N. Osherson, et. al. 2nd ed. Vol. 3. Cambridge, MA: {{% resource_link "851723b4-ef4d-4a8f-8d87-7bde81f830d7" "MIT Press" %}}, 1995, pp. 131-174. ISBN: 0262150433.
 
 Kemp, C., and J. B. Tenenbaum. "Theory-based Induction." In _Proceedings of the 25th Annual Conference of the Cognitive Science Society_ (2003).
 
