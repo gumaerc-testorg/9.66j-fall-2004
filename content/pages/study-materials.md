@@ -14,7 +14,7 @@ MATLAB®
 ### How to Learn MATLAB®
 
 *   help and lookfor Commands
-*   Mathworks Site: {{% resource_link "30e3d3ac-4dda-40c6-96c0-5fbb80741e1b" "Getting Started with MATLAB®" %}}
+*   Mathworks Site: [Getting Started with MATLAB®](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
 *   Try the demo Command from within MATLAB®
 
 ### Debugging Programs in MATLAB®
